@@ -294,6 +294,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -302,7 +303,7 @@
     "annotate_start_num": 0,
     "annotation": {
       "method": 0,
-      "sort_order": 0
+      "sort_order": 1
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
@@ -416,7 +417,7 @@
         "uuid": "ca7b29ea-1626-45cf-b790-8dacc720af3a"
       }
     ],
-    "used_designators": "D106-109,#PWR1,#PWR109-110,#PWR121-122,#PWR201-215,#PWR219,#PWR221-222,#PWR225-230,C101-102,C201-219,FB101,F101,R106-109,R201-206,J101,U1,U101,U201-204,JP101-102,SW101,SW201,SW205",
+    "used_designators": "D1-6,D106-109,#PWR1-35,#PWR109-110,#PWR121-122,#PWR201-215,#PWR219,#PWR221-222,#PWR225-230,C1-19,C101-102,C201-219,FB1,FB101,F1-2,F101,R1-11,R106-109,R201-206,J1-6,J101,U1-5,U101,U201-204,JP101-102,SW1-10,SW101,SW201,SW205,IC1,Q1-2",
     "variants": []
   },
   "sheets": [
